@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Mac/Linux
+.DS_Store
+
+# Model Files (optional)
+# Uncomment if you don't want to upload model
+# *.pkl
+
+# Logs
+*.log
